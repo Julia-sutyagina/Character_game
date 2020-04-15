@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(139,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(144,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(154,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(158,45): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(159,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(195,20): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(196,24): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(206,49): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(214,50): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(248,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(262,31): warning C4305: =: усечение из "double" в "float"
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(266,32): warning C4305: =: усечение из "double" в "float"
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(270,59): warning C4305: =: усечение из "double" в "float"
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(124): warning C4715: menu2: значение возвращается не при всех путях выполнения
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(313): warning C4715: Startgame: значение возвращается не при всех путях выполнения
+C:\Users\1\Desktop\infa\Project3\Project3\Source.cpp(84): warning C4715: menu: значение возвращается не при всех путях выполнения
+  Project3.vcxproj -> C:\Users\1\Desktop\infa\Project3\x64\Debug\Project3.exe
